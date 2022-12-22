@@ -1,0 +1,19 @@
+library(data.table)
+fp <- readRDS("../BabyNames/dataScripts/famousPeople/famousPeople.Rdata")
+
+fp.sum <- fp[,
+             sum(personFame,na.rm=TRUE),
+             by=.(name,sex)
+             ]
+
+setnames( fp.sum, "V1", "fam" )
+
+dm <- load("Rdata/demographicsRaw.Rdata")
+dm <- merge( dm, fp, by=c("name","sex") )
+
+for( my.sex in c("Boy","Girl") ) {
+  ecdf.fam <- ecdf( dm[ sex==my.sex, fam ] )
+  dm[, pfam := 100*ecdf.fam(fam) ]
+}
+
+saveRDS( dm, "Rdata/demographicsRaw.Rdata" )
