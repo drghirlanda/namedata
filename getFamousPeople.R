@@ -13,7 +13,7 @@ setnames( fp.sum, "V1", "fam" )
 load("Rdata/demographicsRaw.Rdata")
 demographics[, (setdiff(names(fp),c("sex","name"))) := NULL ]
 
-demographics <- merge( demographics, fp, by=c("name","sex") )
+demographics <- merge( demographics, fp.sum, by=c("name","sex") )
 
 for( my.sex in c("Boy","Girl") ) {
   ecdf.fam <- ecdf( demographics[ sex==my.sex, fam ] )
@@ -22,4 +22,4 @@ for( my.sex in c("Boy","Girl") ) {
 
 save( demographics, file="Rdata/demographics.Rdata" )
 famousPeople <- fp
-save( famousPeople, file="Rdata/demographics.Rdata" )
+save( famousPeople, file="Rdata/famousPeople.Rdata" )
