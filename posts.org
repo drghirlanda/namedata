@@ -58,7 +58,7 @@ a {
 }
 
 .figure {
-    align: center;
+    margin: auto;
 }
 </style>
 #+end_export
@@ -76,5 +76,5 @@ put more effort into developing new features.
 We hope you enjoy the new site. As usual, you can email us at
 [[mailto:contact@nameclouds.com]] for questions and feedback!
 
-#+attr_html: :align center :width 20% :alt nameclouds logo
+#+attr_html: :width 20% :alt nameclouds logo
 [[./nclogo500.png]]
