@@ -4,7 +4,6 @@
 #+options: num:nil ':t html-style:nil
 # #+html_head: <link rel="stylesheet" type="text/css" href="posts.css" />
 
-#+name: CSS
 #+begin_export html
 <style>
 body {
@@ -63,10 +62,9 @@ a {
 
 We are excited to bring live a faster and cleaner Nameclouds website!
 The Nameclouds app works in the same way, but it is even more
-responsive. To boot, managing your account is easier than ever, thanks
-to a more direct integration with Stripe, our secure payment service.
+responsive. To boot, managing your account is easier than ever.
 
-The new site is also easier for us to work with, meaning that we can
+The new site is also easier for us to maintain, meaning that we can
 put more effort into developing new features.
 
 We hope you enjoy the new site. As usual, you can email us at
