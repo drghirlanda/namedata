@@ -1,7 +1,7 @@
 #+title: Terms and Privacy 
 #+author:
 #+date:
-#+options: num:nil ':t html-style:nil todo:nil
+#+options: num:nil ':t html-style:nil todo:nil toc:2
 # #+html_head: <link rel="stylesheet" type="text/css" href="posts.css" />
 
 #+name: CSS
