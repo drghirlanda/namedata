@@ -1,0 +1,128 @@
+#+title: About the Nameclouds Baby Name Generator
+#+author:
+#+date:
+#+options: num:nil ':t html-style:nil
+# #+html_head: <link rel="stylesheet" type="text/css" href="posts.css" />
+
+#+name: CSS
+#+begin_export html
+<style>
+body {
+    position: relative;
+    font-family: Raleway;
+    color: rgb(0,102,106);
+    background-image: url('blueturquoise-opt.jpg');
+    background-repeat: repeat;
+}
+
+.title {
+    color: white;
+    text-align: center;
+    height: 50px;
+}
+
+a {
+    color: rgb(0,102,106);
+}
+
+.timestamp {
+    color: gray;
+}
+
+#postamble {
+    display: none;
+}
+
+.outline-2 {
+    border: solid 5px;
+    border-color: '#00666a';
+    border-radius: 15px;
+    padding: 20px;
+    background: white;
+    width: calc(100% - 20% - 140px);
+    margin: 10px;
+}
+
+#table-of-contents {
+    border: solid 5px;
+    border-color: '#00666a';
+    border-radius: 15px;
+    padding: 20px;
+    margin: 10px;
+    background: white;
+    position: absolute;
+    top: 60px;
+    right: 0px;
+    width: 20%;
+    align: right;
+}
+
+.figure {
+    margin: auto;
+}
+</style>
+#+end_export
+
+* Why Nameclouds
+
+When we first became parents, we realized just how hard it is to
+choose a name for a child. It felt like a lot of pressure to choose a
+name we both loved and that would serve our child well for years to
+come. We researched hundreds of names on the web, but soon realized
+that it was not enough to know the historical origin of a name or how
+popular it is. We needed to understand what the name means to people.
+
+This is how the idea for Nameclouds was born.
+
+We had a solid knowledge of naming trends, matured in years of
+scientific research on cultural change, so we set about developing a
+novel naming tool. We wanted to make it fun, like a game parents could
+tinker with in the months they are expecting. It needed to be smart,
+in that it could predict names each parent would like. And it had to
+be informative about how a name is trending, where, and with whom.
+
+We built Nameclouds with love and science, to bring you a uniquely
+personal naming experience. We hope you enjoy it as much as we do.
+
+* What is Name Prediction Technology™?
+
+Name Prediction Technology™ is our exclusive algorithm that pools data
+from the US Census and Social Security Administration to discover what
+meaning names evoke and to predict what names you will like.
+
+For example, you might like the name Oliver. Nameclouds shows you that
+Oliver is trendy but also classic, is popular on the coasts, is
+politically liberal and highly educated. It suggests names you might
+like, such as Everett, Lawrence, and Franklin, and lets you tinker
+with these characteristics to discover more names.
+
+* How do I use Nameclouds?
+
+You can watch a video about how Nameclouds works here.
+
+- Enter a name in the search box. A namecloud will pop up that shows
+  names that are demographically similar to the one you entered. Click
+  on any name to start a new name cloud.
+- Adjust the sliders to show names with different characteristics:
+  popularity, trendiness, celebrity, perceived education level, and so
+  on. 
+- On the top left, you will see the name’s origin, similar-sounding
+  names, and celebrities with that name.
+- Click on any similar-sounding name to start a new namecloud.
+- To see popularity based on geography, roll you mouse over the
+  map. To find a name’s popularity on a county level, click on a state
+  to zoom in.
+- A timeline of the name’s popularity will appear in a graph under the
+  map. Click on a past year and the map adjusts to show popularity for
+  that year.
+
+You can also click on the Tour button in the app or look at our News
+page for more details.
+
+* What do I get in my subscription?
+
+You get unlimited access to the full capabilities of Name Prediction
+Technology™, including unlimited name searches, freedom to play with
+all demographic scales, visualization of name trends over time and by
+location (to the state and county level), name info, and your
+favorites list.

@@ -1,0 +1,67 @@
+#+title: Nameclouds News
+#+author:
+#+date:
+#+options: num:nil ':t html-style:nil
+# #+html_head: <link rel="stylesheet" type="text/css" href="posts.css" />
+
+#+name: CSS
+#+begin_export html
+<style>
+body {
+    position: relative;
+    font-family: Raleway;
+    color: rgb(0,102,106);
+    background-image: url('blueturquoise-opt.jpg');
+    background-repeat: repeat;
+}
+
+.title {
+    color: white;
+    text-align: center;
+    height: 50px;
+}
+
+a {
+    color: rgb(0,102,106);
+}
+
+.timestamp {
+    color: gray;
+}
+
+#postamble {
+    display: none;
+}
+
+.outline-2 {
+    border: solid 5px;
+    border-color: '#00666a';
+    border-radius: 15px;
+    padding: 20px;
+    background: white;
+    width: calc(100% - 20% - 140px);
+    margin: 10px;
+}
+
+#table-of-contents {
+    border: solid 5px;
+    border-color: '#00666a';
+    border-radius: 15px;
+    padding: 20px;
+    margin: 10px;
+    background: white;
+    position: absolute;
+    top: 60px;
+    right: 0px;
+    width: 20%;
+    align: right;
+}
+
+.figure {
+    margin: auto;
+}
+</style>
+#+end_export
+
+* About the Nameclouds Baby Name Generator
+
