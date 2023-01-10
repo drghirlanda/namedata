@@ -1,7 +1,7 @@
 #+title: About the Nameclouds Baby Name Generator
 #+author:
 #+date:
-#+options: num:nil ':t html-style:nil
+#+options: num:nil ':t html-style:nil toc:nil
 # #+html_head: <link rel="stylesheet" type="text/css" href="posts.css" />
 
 #+name: CSS
