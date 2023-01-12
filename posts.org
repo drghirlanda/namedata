@@ -63,7 +63,7 @@ a {
 </style>
 #+end_export
 
-* A new Nameclouds is here <2023-01-03 Tue>
+* A new Nameclouds is here <2023-01-10 Tue>
 
 We are excited to bring live a faster and cleaner Nameclouds website!
 The Nameclouds app works in the same way, but it is even more
@@ -76,5 +76,5 @@ put more effort into developing new features.
 We hope you enjoy the new site. As usual, you can email us at
 [[mailto:contact@nameclouds.com]] for questions and feedback!
 
-#+attr_html: :width 20% :alt nameclouds logo
+#+attr_html: :width 20% :alt nameclouds logo :align center
 [[./nclogo500.png]]

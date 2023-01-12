@@ -180,7 +180,7 @@ Examples of Cookies we use:
 
 - Security Cookies. We use Security Cookies for security purposes.
 
-** DONE Use of Data
+*** DONE Use of Data
 DataWorks LLC uses the collected data for various purposes:
 
 - To provide and maintain our Service
@@ -195,7 +195,7 @@ DataWorks LLC uses the collected data for various purposes:
   similar to those that you have already purchased or enquired about
   unless you have opted not to receive such information
 
-** DONE Legal Basis for Processing Personal Data under the General Data Protection Regulation (GDPR)
+*** DONE Legal Basis for Processing Personal Data under the General Data Protection Regulation (GDPR)
 
 If you are from the European Economic Area (EEA), DataWorks LLC legal
 basis for collecting and using the personal information described in
@@ -210,7 +210,7 @@ DataWorks LLC may process your Personal Data because:
 - For payment processing purposes
 - To comply with the law
 
-** DONE Retention of Data
+*** DONE Retention of Data
 
 DataWorks LLC will retain your Personal Data only for as long as is
 necessary for the purposes set out in this Privacy Policy. We will
@@ -225,7 +225,7 @@ time, except when this data is used to strengthen the security or to
 improve the functionality of our Service, or we are legally obligated
 to retain this data for longer periods.
 
-** DONE Transfer of Data
+*** DONE Transfer of Data
 Your information, including Personal Data, may be transferred to – and
 maintained on – computers located outside of your state, province,
 country or other governmental jurisdiction where the data protection
@@ -265,14 +265,14 @@ DataWorks LLC may disclose your Personal Data in the good faith belief that such
 - To protect the personal safety of users of the Service or the public
 - To protect against legal liability
 
-** DONE Security of Data
+*** DONE Security of Data
 The security of your data is important to us but remember that no
 method of transmission over the Internet or method of electronic
 storage is 100% secure. While we strive to use commercially acceptable
 means to protect your Personal Data, we cannot guarantee its absolute
 security.
 
-** DONE Our Policy on “Do Not Track” Signals under the California Online Protection Act (CalOPPA)
+*** DONE Our Policy on “Do Not Track” Signals under the California Online Protection Act (CalOPPA)
 We do not support Do Not Track (“DNT”). Do Not Track is a preference
 you can set in your web browser to inform websites that you do not
 want to be tracked.
@@ -280,7 +280,7 @@ want to be tracked.
 You can enable or disable Do Not Track by visiting the Preferences or
 Settings page of your web browser.
 
-** DONE Your Data Protection Rights under the General Data Protection Regulation (GDPR)
+*** DONE Your Data Protection Rights under the General Data Protection Regulation (GDPR)
 
 If you are a resident of the European Economic Area (EEA), you have
 certain data protection rights. DataWorks LLC aims to take reasonable
@@ -335,13 +335,13 @@ These third parties have access to your Personal Data only to perform
 these tasks on our behalf and are obligated not to disclose or use it
 for any other purpose.
 
-** DONE Behavioral Remarketing
+*** DONE Behavioral Remarketing
 DataWorks LLC uses remarketing services to advertise on third party
 websites to you after you visited our Service. We and our third-party
 vendors use cookies to inform, optimise and serve ads based on your
 past visits to our Service.
 
-** DONE Google Ads (AdWords)
+*** DONE Google Ads (AdWords)
 
 Google Ads (AdWords) remarketing service is provided by Google Inc.
 
@@ -359,7 +359,7 @@ For more information on the privacy practices of Google, please visit
 the Google Privacy Terms web page:
 https://policies.google.com/privacy?hl=en
 
-** DONE Twitter
+*** DONE Twitter
 
 Twitter remarketing service is provided by Twitter Inc.
 
@@ -367,7 +367,7 @@ You can opt-out from Twitter’s interest-based ads by following their instructi
 
 You can learn more about the privacy practices and policies of Twitter by visiting their Privacy Policy page: https://twitter.com/privacy
 
-** DONE Facebook
+*** DONE Facebook
 
 Facebook remarketing service is provided by Facebook Inc.
 
@@ -392,7 +392,7 @@ For more information on the privacy practices of Facebook, please
 visit Facebook’s Data Policy:
 https://www.facebook.com/privacy/explanation
 
-** DONE AdRoll
+*** DONE AdRoll
 
 AdRoll remarketing service is provided by Semantic Sugar, Inc.
 
@@ -469,25 +469,52 @@ Terms. If you disagree with any part of the terms then you do not have
 permission to access the Service.
 
 ** Purchases
-If you wish to purchase any product or service made available through the Service (“Purchase”), you may be asked to supply certain information relevant to your Purchase including, without limitation, your credit card number, the expiration date of your credit card, your billing address, and your shipping information.
+If you wish to purchase any product or service made available through
+the Service (“Purchase”), you may be asked to supply certain
+information relevant to your Purchase including, without limitation,
+your credit card number, the expiration date of your credit card, your
+billing address, and your shipping information.
 
-You represent and warrant that: (i) you have the legal right to use any credit card(s) or other payment method(s) in connection with any Purchase; and that (ii) the information you supply to us is true, correct and complete.
+You represent and warrant that: (i) you have the legal right to use
+any credit card(s) or other payment method(s) in connection with any
+Purchase; and that (ii) the information you supply to us is true,
+correct and complete.
 
-The service may employ the use of third party services for the purpose of facilitating payment and the completion of Purchases. By submitting your information, you grant us the right to provide the information to these third parties subject to our Privacy Policy.
+The service may employ the use of third party services for the purpose
+of facilitating payment and the completion of Purchases. By submitting
+your information, you grant us the right to provide the information to
+these third parties subject to our Privacy Policy.
 
-We reserve the right to refuse or cancel your order at any time for reasons including but not limited to: product or service availability, errors in the description or price of the product or service, error in your order or other reasons.
+We reserve the right to refuse or cancel your order at any time for
+reasons including but not limited to: product or service availability,
+errors in the description or price of the product or service, error in
+your order or other reasons.
 
-We reserve the right to refuse or cancel your order if fraud or an unauthorized or illegal transaction is suspected.
+We reserve the right to refuse or cancel your order if fraud or an
+unauthorized or illegal transaction is suspected.
 
 ** Availability, Errors and Inaccuracies
-We are constantly updating product and service offerings on the Service. We may experience delays in updating information on the Service and in our advertising on other web sites. The information found on the Service may contain errors or inaccuracies and may not be complete or current. Products or services may be mispriced, described inaccurately, or unavailable on the Service and we cannot guarantee the accuracy or completeness of any information found on the Service.
+We are constantly updating product and service offerings on the
+Service. We may experience delays in updating information on the
+Service and in our advertising on other web sites. The information
+found on the Service may contain errors or inaccuracies and may not be
+complete or current. Products or services may be mispriced, described
+inaccurately, or unavailable on the Service and we cannot guarantee
+the accuracy or completeness of any information found on the Service.
 
-We therefore reserve the right to change or update information and to correct errors, inaccuracies, or omissions at any time without prior notice.
+We therefore reserve the right to change or update information and to
+correct errors, inaccuracies, or omissions at any time without prior
+notice.
 
 ** Contests, Sweepstakes and Promotions
-Any contests, sweepstakes or other promotions (collectively, “Promotions”) made available through the Service may be governed by rules that are separate from these Terms Conditions. If you participate in any Promotions, please review the applicable rules as well as our Privacy Policy. If the rules for a Promotion conflict with these Terms and Conditions, the Promotion rules will apply.
+Any contests, sweepstakes or other promotions (collectively,
+“Promotions”) made available through the Service may be governed by
+rules that are separate from these Terms Conditions. If you
+participate in any Promotions, please review the applicable rules as
+well as our Privacy Policy. If the rules for a Promotion conflict with
+these Terms and Conditions, the Promotion rules will apply.
 
-** Subscriptions
+** Subscriptions                                                   :noexport:
 Some parts of the Service are billed on a subscription basis (“Subscription(s)”). You will be billed in advance on a recurring and periodic basis (“Billing Cycle”). Billing cycles are set either on a monthly or annual basis, depending on the type of subscription plan you select when purchasing a Subscription.
 
 At the end of each Billing Cycle, your Subscription will automatically renew under the exact same conditions unless you cancel it or DataWorks LLC cancels it. You may cancel your Subscription renewal either through your online account management page or by contacting DataWorks LLC customer support team.
@@ -496,34 +523,62 @@ A valid payment method, including credit card, is required to process the paymen
 
 Should automatic billing fail to occur for any reason, DataWorks LLC will issue an electronic invoice indicating that you must proceed manually, within a certain deadline date, with the full payment corresponding to the billing period as indicated on the invoice.
 
-** Fee Changes
-DataWorks LLC, in its sole discretion and at any time, may modify the Subscription fees for the Subscriptions. Any Subscription fee change will become effective at the end of the then-current Billing Cycle.
+*** Fee Changes
+DataWorks LLC, in its sole discretion and at any time, may modify the
+Subscription fees for the Subscriptions. Any Subscription fee change
+will become effective at the end of the then-current Billing Cycle.
 
 DataWorks LLC will provide you with a reasonable prior notice of any change in Subscription fees to give you an opportunity to terminate your Subscription before such change becomes effective.
 
 Your continued use of the Service after the Subscription fee change comes into effect constitutes your agreement to pay the modified Subscription fee amount.
 
-** Refunds
+*** Refunds
 Certain refund requests for Subscriptions may be considered by DataWorks LLC on a case-by-case basis and granted in sole discretion of DataWorks LLC.
 
 ** Accounts
-When you create an account with us, you guarantee that you are above the age of 18, and that the information you provide us is accurate, complete, and current at all times. Inaccurate, incomplete, or obsolete information may result in the immediate termination of your account on the Service.
+When you create an account with us, you guarantee that you are above
+the age of 18, and that the information you provide us is accurate,
+complete, and current at all times. Inaccurate, incomplete, or
+obsolete information may result in the immediate termination of your
+account on the Service.
 
-You are responsible for maintaining the confidentiality of your account and password, including but not limited to the restriction of access to your computer and/or account. You agree to accept responsibility for any and all activities or actions that occur under your account and/or password, whether your password is with our Service or a third-party service. You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your account.
+You are responsible for maintaining the confidentiality of your
+account and password, including but not limited to the restriction of
+access to your computer and/or account. You agree to accept
+responsibility for any and all activities or actions that occur under
+your account and/or password, whether your password is with our
+Service or a third-party service. You must notify us immediately upon
+becoming aware of any breach of security or unauthorized use of your
+account.
 
-We reserve the right to refuse service, terminate accounts, remove or edit content, or cancel orders in our sole discretion.
+We reserve the right to refuse service, terminate accounts, remove or
+edit content, or cancel orders in our sole discretion.
 
 ** Intellectual Property
-The Service and its original content, features and functionality are and will remain the exclusive property of DataWorks LLC and its licensors. The Service is protected by copyright, trademark, and other laws of both the United States and foreign countries. Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of DataWorks LLC.
+The Service and its original content, features and functionality are
+and will remain the exclusive property of DataWorks LLC and its
+licensors. The Service is protected by copyright, trademark, and other
+laws of both the United States and foreign countries. Our trademarks
+and trade dress may not be used in connection with any product or
+service without the prior written consent of DataWorks LLC.
 
 ** Links To Other Web Sites
-Our Service may contain links to third party web sites or services that are not owned or controlled by DataWorks LLC
+Our Service may contain links to third party web sites or services
+that are not owned or controlled by DataWorks LLC
 
-DataWorks LLC has no control over, and assumes no responsibility for the content, privacy policies, or practices of any third party web sites or services. We do not warrant the offerings of any of these entities/individuals or their websites.
+DataWorks LLC has no control over, and assumes no responsibility for
+the content, privacy policies, or practices of any third party web
+sites or services. We do not warrant the offerings of any of these
+entities/individuals or their websites.
 
-You acknowledge and agree that DataWorks LLC shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such third party web sites or services.
+You acknowledge and agree that DataWorks LLC shall not be responsible
+or liable, directly or indirectly, for any damage or loss caused or
+alleged to be caused by or in connection with use of or reliance on
+any such content, goods or services available on or through any such
+third party web sites or services.
 
-We strongly advise you to read the terms and conditions and privacy policies of any third party web sites or services that you visit.
+We strongly advise you to read the terms and conditions and privacy
+policies of any third party web sites or services that you visit.
 
 ** Termination
 We may terminate or suspend your account and bar access to the Service immediately, without prior notice or liability, under our sole discretion, for any reason whatsoever and without limitation, including but not limited to a breach of the Terms.
