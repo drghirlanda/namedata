@@ -607,37 +607,19 @@ These Terms shall be governed and construed in accordance with the laws of New Y
 Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our Service, and supersede and replace any prior agreements we might have had between us regarding the Service.
 
 ** Changes
-We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will provide at least 30 days notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
+We reserve the right, at our sole discretion, to modify or replace
+these Terms at any time. If a revision is material we will provide at
+least 30 days notice prior to any new terms taking effect. What
+constitutes a material change will be determined at our sole
+discretion.
 
-By continuing to access or use our Service after any revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, you are no longer authorized to use the Service.
+By continuing to access or use our Service after any revisions become
+effective, you agree to be bound by the revised terms. If you do not
+agree to the new terms, you are no longer authorized to use the
+Service.
 
- 
+** Contact Us
 
-Contact Us
-If you have any questions about this Privacy Policy or our Terms and Conditions of service please use the form on this site to contact us by email.
-
-    My Nameclouds My Account Baby Name News About 
-
-© 2019 DataWorks LLC. All rights reserved. Privacy and Terms of Service. Illustrated by Collen Kong-Savage.
-Heads up! Restricted content is visible to you as an administrator, but will be restricted for guests and non-members. Dismiss
-Skip to toolbar
-
-    About WordPress
-    Nameclouds
-    11 Comment in moderation
-    New
-    WP Engine Quick Links
-    Edit Page
-    SEO
-    Focus keyphrase not set
-    VillaTheme
-    Enable Visual Builder
-    WPForms 6
-
-    Search
-    Howdy, Nameclouds
-
-Log Out
-This site uses cookies: Find out more.
-
-
+If you have any questions about this Privacy Policy or our Terms and
+Conditions of service please use the form on this site to contact us
+by email at mailto:contact@nameclouds.com.
