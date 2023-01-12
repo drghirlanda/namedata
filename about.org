@@ -37,7 +37,7 @@ a {
     border: solid 5px;
     border-color: '#00666a';
     border-radius: 15px;
-    padding: 20px;
+    padding: 5%;
     background: white;
 //    width: calc(100% - 20% - 140px);
     margin: 10px;
