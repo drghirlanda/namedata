@@ -11,7 +11,7 @@ body {
     position: relative;
     font-family: Raleway;
     color: rgb(0,102,106);
-    background-image: url('blueturquoise-opt.jpg');
+    background-image: url('blueturquoise-opt.webp);
     background-repeat: repeat;
 }
 
@@ -77,4 +77,4 @@ We hope you enjoy the new site. As usual, you can email us at
 [[mailto:contact@nameclouds.com]] for questions and feedback!
 
 #+attr_html: :width 20% :alt nameclouds logo :align center
-[[./nclogo500.png]]
+[[./nclogo500.webp]]

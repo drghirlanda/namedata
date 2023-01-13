@@ -11,7 +11,7 @@ body {
     position: relative;
     font-family: Raleway;
     color: rgb(0,102,106);
-    background-image: url('blueturquoise-opt.jpg');
+    background-image: url('blueturquoise-opt.webp);
     background-repeat: repeat;
 }
 
@@ -37,7 +37,7 @@ a {
     border: solid 5px;
     border-color: '#00666a';
     border-radius: 15px;
-    padding: 5%;
+    padding: 20px;
     background: white;
 //    width: calc(100% - 20% - 140px);
     margin: 10px;

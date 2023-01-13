@@ -11,7 +11,7 @@ body {
     position: relative;
     font-family: Raleway;
     color: rgb(0,102,106);
-    background-image: url('blueturquoise-opt.jpg');
+    background-image: url('blueturquoise-opt.webp);
     background-repeat: repeat;
 }
 
