@@ -11,7 +11,7 @@ body {
     position: relative;
     font-family: Raleway;
     color: rgb(0,102,106);
-    background-image: url('https://github/com/drghirlanda/namedata/blob/main/blueturquoise-opt.webp');
+    background-image: url('blueturquoise-opt.webp');
     background-repeat: repeat;
 }
 
